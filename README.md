@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @filholmc
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Java/Javascript (a little bit more).
-- 💞️ I’m looking to collaborate on Salesforce.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning about Salesforce, Python and so on.
+- 
 - 📫 How to reach me: filholmc@gmail.com
 
 <!---
