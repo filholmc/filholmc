@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @filholmc
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning about Salesforce, Python and so on.
+- 👀 I’m currently interested in Salesforce Development/Administration.
 - 
 - 📫 How to reach me: filholmc@gmail.com
 
